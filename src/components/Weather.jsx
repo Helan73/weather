@@ -65,7 +65,7 @@ const Weather = () => {
     }
 
     useEffect(() => {
-        search("America");
+        search("Tamil Nadu");
     }, []);
 
     return (
